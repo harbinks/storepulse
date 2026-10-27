@@ -171,6 +171,6 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ## 👤 Author & Context
 - **Project:** StorePulse Retail P&L Intelligence Agent
-- **Applicant:** Management Trainee Candidate — Retail Operations & Strategy
+- **Applicant:** Harbin Ks
 - **Target Organization:** Wakefit Innovations Pvt. Ltd.
 - **Tech Stack:** Python, Streamlit, Pandas, Plotly, Pytest
